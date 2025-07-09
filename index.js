@@ -4,6 +4,6 @@ $("#img1").mouseenter(function(){
 });
 $("#img1").mouseleave(function(){
     $("#img1").css("width","250px");
-})
+});
 });
 
